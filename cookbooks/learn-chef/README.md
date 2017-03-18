@@ -1,4 +1,5 @@
 # learn-chef Cookbook
+# Adding extra lines
 
 TODO: Enter the cookbook description here.
 
